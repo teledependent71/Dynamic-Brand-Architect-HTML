@@ -1,0 +1,18 @@
+.brianne-container {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.brianne-gambia {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.brianne-image {
+  width: 200px;
+  object-fit: cover;
+}
